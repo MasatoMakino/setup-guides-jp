@@ -19,3 +19,7 @@ Visual Studio Codeのインターフェイスを日本語化します。
 ![](https://www.evernote.com/l/AAlYaIIor_VNaKFu1NuiiVfOsrBiJtXR9IQB/image.png)
 
 再起動後にインターフェイスが日本語化されていれば、インストール成功です。
+
+## 公式ドキュメント
+
+より詳しい作業手順は[公式ドキュメント](https://code.visualstudio.com/docs/getstarted/locales)を参照してください。
